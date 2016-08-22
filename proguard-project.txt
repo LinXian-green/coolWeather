@@ -18,3 +18,9 @@
 #-keepclassmembers class fqcn.of.javascript.interface.for.webview {
 #   public *;
 #}
+
+
+
+
+https://github.com/LinXian-green/coolWeather.git
+https://github.com/coolWeather1/Weather.git
